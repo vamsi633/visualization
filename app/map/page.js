@@ -1,4 +1,6 @@
 // app/page.js
+{
+  /*
 import CaliforniaMap from "../../components/californiaMap";
 
 export default function HomePage() {
@@ -8,9 +10,12 @@ export default function HomePage() {
         CalEcoTox: California Map Prototype
       </h1>
       <p className="mb-4 text-center text-gray-700">
-        This is a blank Mapbox GL JS map centered on California. Next, we’ll overlay the GeoJSON boundary.
+        This is a blank Mapbox GL JS map centered on California. Next, we’ll
+        overlay the GeoJSON boundary.
       </p>
       <CaliforniaMap />
     </main>
   );
+}
+*/
 }
