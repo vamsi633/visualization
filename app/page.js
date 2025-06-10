@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import RealCSVDataMap from "../components/realCSVDataMap";
+import RealCSVDataMap from "@/components/realCSVDataMap";
 import TopChemicalsBarChart from "@/components/chemical";
 import SampleSizeDurationScatterPlot from "@/components/samplesize";
 import SexDistributionDoughnutChart from "@/components/sexd";
