@@ -169,7 +169,7 @@ export default function HomePage() {
   if (currentView === "map") {
     return (
       <main className="flex flex-col items-center py-8 px-4 md:px-16 bg-black min-h-screen">
-        <div className="w-full max-w-7xl">
+        <div className="w-full">
           <div className="text-center mb-8">
             <h1 className="text-3xl md:text-4xl font-bold mb-4 text-white">
               CalEcoTox: Chemical Hotspot Analysis
